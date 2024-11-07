@@ -11,5 +11,7 @@ Durante este curso, el alumno revisará el hardware de diferentes equipos y debe
 
 Aca se encuentra todos y cada uno de los modulos de la certificacion CCST
 
-- [Modulo 1: Comunicacion en un mundo conectado](./modulo1.md)
-- [Módulo 2: Componentes, tipos y conexiones de red](./modulo2.md)
+- [Modulo 1: Comunicacion en un mundo conectado](./modulos/modulo1.md)
+- [Módulo 2: Componentes, tipos y conexiones de red](./modulos/modulo2.md)
+- [Módulo 3: Redes inalambricas y moviles](./modulos/modulo3.md)
+- [Módulo 4: Crear una red domestica](./modulos/modulo4.md)

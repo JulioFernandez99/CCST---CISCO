@@ -4,7 +4,7 @@
 Todas las PC conectadas a una red que participan directamente en las comunicaciones de la red se clasifican como hosts. Los hosts pueden enviar y recibir mensajes a través de la red. En las redes modernas, las PC hosts pueden actuar como cliente, servidor o ambos, como se muestra en la figura. El software instalado en la computadora determina cuál es la función que cumple la computadora.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.1.2.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.1.2.png" style="width:50rem"></a>
 </div>
 
 Los servidores son hosts con software instalado que les permite proporcionar información, por ejemplo correo electrónico o páginas web, a otros hosts de la red. Cada servicio requiere un software de servidor independiente. Por ejemplo, para proporcionar servicios Web a la red, un host necesita un software de servidor Web. Cada destino que visita en línea es ofrecido por un servidor ubicado en alguna parte de una red que está conectada a Internet global. 
@@ -31,7 +31,7 @@ En empresas más grandes, en las que el tráfico de red puede ser intenso, con f
 Las ventajas y desventajas de las redes entre pares (P2P) se muestran en la figura.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.1.3.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.1.3.png" style="width:50rem"></a>
 </div>
 
 Las ventajas de las redes entre pares:
@@ -54,7 +54,7 @@ Una aplicación P2P permite que un dispositivo funcione como cliente y como serv
 Algunas aplicaciones P2P utilizan un sistema híbrido donde se descentraliza el intercambio de recursos, pero los índices que apuntan a las ubicaciones de los recursos están almacenados en un directorio centralizado. En un sistema híbrido, cada punto accede a un servidor de índice para obtener la ubicación de un recurso almacenado en otro punto.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.1.4.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.1.4.png" style="width:50rem"></a>
 </div>
 
 Ambos clientes pueden enviar y recibir mensajes simultáneamente.
@@ -67,7 +67,7 @@ Además, una única PC puede ejecutar varios tipos de software de servidor. En u
 Una única PC también puede ejecutar varios tipos de software de cliente. Debe haber un software de cliente para cada servicio requerido. Si un host tiene varios clientes instalados, puede conectarse a varios servidores de manera simultánea. Por ejemplo, un usuario puede consultar el correo electrónico y ver una página web mientras envía mensajes instantáneos y escucha la radio por Internet.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.1.5.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.1.5.png" style="width:50rem"></a>
 </div>
 
 ---
@@ -107,7 +107,7 @@ La infraestructura de red contiene tres categorías de componentes de hardware, 
 - Medios de red
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.2.2.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.2.2.png" style="width:50rem"></a>
 </div>
 
 Los dispositivos y los medios son los elementos físicos o hardware de la red. Por lo general, el hardware está compuesto por los componentes visibles de la plataforma de red, como una PC portátil, una PC, un switch, un router, un punto de acceso inalámbrico o el cableado que se utiliza para conectar estos dispositivos. A veces, puede que algunos componentes no sean visibles. En el caso de los medios inalámbricos, los mensajes se transmiten a través del aire mediante radio frecuencias invisibles u ondas infrarrojas.
@@ -158,7 +158,7 @@ Los ISP son fundamentales para las comunicaciones a través de la red global de 
 La red troncal de Internet es como una súper autopista de la información que proporciona enlaces de datos de alta velocidad para conectar las diversas redes de proveedores de servicios en las principales áreas metropolitanas de todo el mundo. El medio principal que conecta la red troncal de Internet es el cable de fibra óptica. Generalmente, este cable se instala bajo tierra para conectar ciudades dentro de un continente. Los cables de fibra óptica también se tienden bajo el mar para conectar continentes, países y ciudades.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.3.1.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.3.1.png" style="width:50rem"></a>
 </div>
 
 # 2.3.2 Conexiones de ISP
@@ -169,7 +169,7 @@ La parte superior de la figura muestra la opción de conexión a un ISP más sim
 Como se muestra en la parte inferior de la figura, necesita un enrutador para conectar con seguridad una computadora a un ISP. Esta es la opción de conexión más común. Consiste en utilizar un enrutador integrado inalámbrico para conectarse al ISP. El enrutador incluye un conmutador para conectar hosts cableados y un AP inalámbrico para conectar hosts inalámbricos. El enrutador también proporciona información de direccionamiento IP del cliente y seguridad para los hosts internos.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.3.2.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.3.2.png" style="width:50rem"></a>
 </div>
 
 ### 2.3.3 Conexiones de Cable y DSL
@@ -180,7 +180,7 @@ La mayoría de los usuarios de redes domésticas no se conectan a sus proveedore
 - DSL - La Línea de Suscriptor Digital proporciona una conexión a Internet siempre activa y de un ancho de banda elevado. Requiere un módem de alta velocidad especial que separa la señal DSL de la señal telefónica y proporciona una conexión Ethernet a un equipo host o a una LAN. La señal DSL se transmite a través de una línea telefónica, que está dividida en tres canales. Uno de los canales se utiliza para llamadas telefónicas de voz. Este canal permite que una persona reciba llamadas telefónicas sin desconectarse de Internet. El segundo es un canal de descarga más rápido y se utiliza para recibir información de Internet. El tercer canal se utiliza para enviar o subir información. Por lo general, este canal es un poco más lento que el canal de descarga. La calidad y velocidad de la conexión DSL depende principalmente de la calidad de la línea telefónica y de la distancia desde la oficina central de su compañía telefónica. Cuanto más lejos esté de la oficina central, más lenta será la conexión.
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.3.3.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.3.3.png" style="width:50rem"></a>
 </div>
 
 ### 2.3.4 Opciones de Conectividad Adicionales
@@ -211,7 +211,7 @@ Las opciones de conexión varían según la ubicación geográfica y la disponib
 ### Conexión Satelital
 
 <div align="center">
-    <a href="" target="_blank"><img src="recursos\2.3.3.satelite.png" style="width:50rem"></a>
+    <a href="" target="_blank"><img src="recursos\modulo2\2.3.3.satelite.png" style="width:50rem"></a>
 </div>
 
 
