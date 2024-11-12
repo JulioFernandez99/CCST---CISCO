@@ -148,3 +148,7 @@ La cantidad de datos, el tipo de datos y la latencia de la red se combinan para 
 Así es.
 
 El ancho de banda generalmente se mide en la cantidad de bits que se pueden enviar a través de los medios en un segundo.
+
+---
+
+[↶Regresar](../README.md)

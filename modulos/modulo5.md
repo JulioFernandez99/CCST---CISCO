@@ -357,9 +357,13 @@ La organización Internet Engineering Task Force (IETF) emite y administra la Pe
 
 ---
 ### Pregunta 10
-¿Cuáles son las dos capas del modelo OSI que tienen la misma funcionalidad que las dos capas del modelo TCP/IP?(Escoge dos.)¿Cuáles son las dos capas del modelo OSI que tienen la misma funcionalidad que las dos capas del modelo TCP/IP?(Escoge dos.)
+¿Cuáles son las dos capas del modelo OSI que tienen la misma funcionalidad que las dos capas del modelo TCP/IP?(Escoge dos.)
 
 R/ Enlace de datos, Física
 
 En conjunto, las capas física y de enlace de datos OSI son equivalentes a la capa de acceso a la red TCP/IP. La funcionalidad de capa de transporte OSI es equivalente a la de la capa de transporte TCP/IP, y la de la capa de red OSI es equivalente a la de la capa de Internet TCP/IP. Las capas de aplicación, presentación y sesión del modelo OSI se alinean con la capa de aplicación del modelo TCP/IP.
+
+---
+
+[↶Regresar](../README.md)
 

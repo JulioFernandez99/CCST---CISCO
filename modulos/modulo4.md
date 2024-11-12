@@ -370,3 +370,7 @@ R/ Enabled
 ¿Cuál es una característica del SSID de la red?
 
 R/ Debe respetar las mayúsculas y minúsculas.
+
+---
+
+[↶Regresar](../README.md)

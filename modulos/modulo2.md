@@ -335,3 +335,7 @@ R/ Facilidad de configuración
 ¿Cuál es la característica de una aplicación punto a punto (P2P)?
 
 R/ Cada dispositivo que utiliza la aplicación proporciona una interfaz de usuario y ejecuta un servicio en segundo plano.
+
+---
+
+[↶Regresar](../README.md)
