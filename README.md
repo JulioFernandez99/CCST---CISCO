@@ -16,3 +16,4 @@ Aca se encuentra todos y cada uno de los modulos de la certificacion CCST
 - [Módulo 3: Redes inalambricas y moviles](./modulos/modulo3.md)
 - [Módulo 4: Crear una red domestica](./modulos/modulo4.md)
 - [Módulo 5: Principios de la comunucacion](./modulos/modulo5.md)
+- [Módulo 6: Medios de red](./modulos/modulo6.md)
