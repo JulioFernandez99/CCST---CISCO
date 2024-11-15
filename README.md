@@ -18,3 +18,4 @@ Aca se encuentra todos y cada uno de los modulos de la certificacion CCST
 - [Módulo 5: Principios de la comunucacion](./modulos/modulo5.md)
 - [Módulo 6: Medios de red](./modulos/modulo6.md)
 - [Módulo 7: La capa de acceso](./modulos/modulo7.md)
+- [Módulo 8: El protocolo de internet](./modulos/modulo8.md)
