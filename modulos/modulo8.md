@@ -73,15 +73,3 @@ Otro ejemplo de una red jerárquica es el sistema telefónico. Con un número te
 
 [↶Regresar](../README.md)
 
-
-<div align="center">
-                <a href="" target="_blank"><img src="recursos\modulo8\.png" style="width:50rem"></a>
-</div>
-
-
-
-<details>
-        <summary>Red </summary>
-
-</details>  
-<br>
